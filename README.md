@@ -6,8 +6,9 @@ Tool for exporting Old School RuneScape environments so that they can be used in
 
 ## Downloading
 
-Right click the green code button and select "Download ZIP"
-After downloading, create a new folder and extract it to that folder
+Please visit the [Releases](https://github.com/ConnorDY/OSRS-Environment-Exporter/releases) page to download the application.
+
+We recommend using the latest release unless you are having problems with it.
 
 ## How to use
 
