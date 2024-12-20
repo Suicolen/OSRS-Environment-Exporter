@@ -6,7 +6,7 @@ Tool for exporting Old School RuneScape environments so that they can be used in
 
 ## Downloading
 
-Please visit the [Releases](https://github.com/ConnorDY/OSRS-Environment-Exporter/releases) page to download the application.
+Please visit the [Releases](https://github.com/Suicolen/OSRS-Environment-Exporter/releases/) page to download the application.
 
 We recommend using the latest release unless you are having problems with it.
 
